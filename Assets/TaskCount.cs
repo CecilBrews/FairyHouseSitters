@@ -1,9 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Fungus;
 
-public class TasksCompleted : MonoBehaviour
+public class TaskCount : MonoBehaviour
 {
+
+    [SerializeField] public bool TaskDone;
+
     // Start is called before the first frame update
     void Start()
     {
