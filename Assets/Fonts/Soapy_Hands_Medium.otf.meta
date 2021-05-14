@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: aab19924d31c1f8458a3d146a0d5b19b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SS Soapy Hands
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 401fdbbc22c564e4ab51ca322e17c740, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

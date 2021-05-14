@@ -4,30 +4,28 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Events;
 using UnityEngine.EventSystems;
+using Fungus;
 
 
-public class TasksCompleted : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
+public class TasksCompleted : MonoBehaviour
 {
+    public Flowchart flowchart;
+   
+    public Text text;
 
-
-    public void OnPointerEnter(PointerEventData eventData)
-    {
-        GetComponent<Text>().color = Color.red;
-    }
-    public void OnPointerExit(PointerEventData eventData)
-    {
-        GetComponent<Text>().color = Color.black;
-    }
 
     // Start is called before the first frame update
     void Start()
     {
-        
+      
     }
+
+    
 
     // Update is called once per frame
     void Update()
     {
-        
+       
     }
+
 }
