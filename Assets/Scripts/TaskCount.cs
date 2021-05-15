@@ -9,8 +9,13 @@ using Fungus;
 public class TaskCount : MonoBehaviour
 {
     
-    public Text text;
-    [SerializeField] public bool TaskDone;
+    public bool Task1Complete;
+    public bool Task2Complete;
+    public bool Task3Complete;
+    public bool Task4Complete;
+    public bool Task5Complete;
+    public bool Task6Complete;
+    public bool Task7Complete;
 
     // Start is called before the first frame update
     void Start()
