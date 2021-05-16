@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/MainMenu.unity
+    guid: 3c2ff969b49712149ba380b7103dc0b4
+  - enabled: 1
+    path: Assets/Scenes/FairyHQ.unity
+    guid: 671d80471ee92884c899af347166c8ef
+  - enabled: 1
+    path: Assets/Scenes/House01.unity
+    guid: a0ce6a4009251194697e1e27dd16b09a
   m_configObjects: {}
